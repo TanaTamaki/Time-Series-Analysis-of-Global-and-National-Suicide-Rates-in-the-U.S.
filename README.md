@@ -12,9 +12,9 @@ Suicide remains a major global public-health concern consuming the lives of more
 
 ## Data
 - Kaggle dataset [found here](url)
-- Suicide data sourced from World Health Organization ([link] (https://www.who.int/teams/mental-health-and-substance-use/data-research/suicide-data))
-- Socioeconomic and population data from the World Bank ([link] (https://data360.worldbank.org/en/indicator/WB_WDI_SP_POP_TOTLrecentYear=false&view=datatable&country=UZB))
-- Human Development Index data  ([link] (https://hdr.undp.org/data-center/documentation-and-downloads))
+- Suicide data sourced from World Health Organization [link](url)
+- Socioeconomic and population data from the World Bank [link](url) 
+- Human Development Index data  [link](url)
   
 ## Folders 
 - 01 Project Documents (project brief)
@@ -29,4 +29,4 @@ Suicide remains a major global public-health concern consuming the lives of more
 - Tableau Public
 
 ## Project Deliverables
-- Tableau Storyboard
+- [Tableau Storyboard ](url)
